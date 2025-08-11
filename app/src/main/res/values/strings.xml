@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name1"> 🥞 Pancake Category
+
+</string>
+    <string name="app_name2"> Description: Fluffy pancakes stacked high topped with fresh strawberries
+        blueberries and maple syrup. 🥞
+ </string>
+    <string name="app_name3">🍝 Pasta Category
+ </string>
+    <string name="app_name4">Description: Fettuccine noodles tossed in rich and creamy Alfredo sauce
+        topped with grilled chicken and parsley. 🍝
+    </string>
+    <string name="app_name5">🍗 Fried Chicken Category
+ </string>
+    <string name="app_name6">Description: Crunchy golden brown chicken pieces seasoned with herbs and spices served with coleslaw and dipping sauce.🍗
+    </string>
+    <string name="app_name7">  🍕 Pizza Category
+ </string>
+    <string name="app_name8">Description: Thin crust pizza topped with tangy tomato sauce mozzarella cheese and spicy pepperoni slices.🍕</string>
+    <string name="app_name9"> 🍟 Fries Category
+</string>
+    <string name="app_name10">Description: Golden crispy fries smothered in melted cheese bacon bits and spring onions served with dipping sauce.🍟
+ </string>
+    <string name="app_name11"> 🍟 Fries </string>
+    <string name="app_name12"> 🍕 Pizza </string>
+    <string name="app_name13"> 🍗 Chicken </string>
+    <string name="app_name14"> 🍝 Pasta </string>
+    <string name="app_name15"> 🥗 Salad </string>
+    <string name="app_name16"> 🥞 Pancake </string>
+    <string name="app_name17"> 🍔 Burger</string>
+    <string name="app_name"> </string>
+
+</resources>
