@@ -44,7 +44,7 @@ A refreshing mix of crisp greens, cherry tomatoes, crunchy cucumbers, and tangy 
 ### 🍝 Pasta Category
 Al dente spaghetti drenched in a rich, savory marinara sauce with garlic, basil, and shaved Parmesan cheese.
 
-"### 🍦 Dessert Category
+### 🍦 Dessert Category
 Creamy vanilla ice cream topped with warm chocolate sauce, sprinkles, and a cherry on top — the perfect sweet treat."
 
 "**And more delicious items are waiting for you in the app — go now and check it out!**"
