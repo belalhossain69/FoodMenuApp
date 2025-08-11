@@ -29,6 +29,26 @@ Golden crispy fries smothered in melted cheese, bacon bits, and spring onions �
 ### 🍕 Pizza Category
 Thin crust pizza topped with tangy tomato sauce, mozzarella cheese, and spicy pepperoni slices.  
 
+### 🍔 Burger Category
+Juicy grilled beef patty layered with melted cheddar, fresh lettuce, ripe tomatoes, and tangy pickles — all sandwiched in a toasted sesame bun.
+
+### 🌮 Taco Category
+Soft corn tortillas filled with seasoned spiced chicken, fresh cilantro, diced onions, and a squeeze of zesty lime.
+
+### 🍗 Fried Chicken Category
+Crispy golden fried chicken pieces seasoned with a blend of spices — juicy on the inside and crunchy on the outside.
+
+### 🥗 Salad Category
+A refreshing mix of crisp greens, cherry tomatoes, crunchy cucumbers, and tangy feta cheese — tossed in a light balsamic vinaigrette.
+
+### 🍝 Pasta Category
+Al dente spaghetti drenched in a rich, savory marinara sauce with garlic, basil, and shaved Parmesan cheese.
+
+"### 🍦 Dessert Category
+Creamy vanilla ice cream topped with warm chocolate sauce, sprinkles, and a cherry on top — the perfect sweet treat."
+
+"**And more delicious items are waiting for you in the app — go now and check it out!**"
+
 ---
 
 ## 🛠 Tech Stack
