@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -47,11 +48,10 @@
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:background="@drawable/image_background"
+                            android:contentDescription="@string/app_name11"
                             android:paddingTop="15dp"
                             android:scaleType="centerCrop"
-                            android:src="@drawable/fries2"
-
-                            />
+                            android:src="@drawable/fries2" />
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -60,7 +60,8 @@
                             android:text="@string/app_name11"
                             android:textColor="#000000"
                             android:textSize="20sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"
+                            tools:ignore="TextContrastCheck" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -74,6 +75,7 @@
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:background="@drawable/image_background"
+                            android:contentDescription="@string/app_name12"
                             android:paddingTop="15dp"
                             android:scaleType="centerCrop"
                             android:src="@drawable/pizza2"
@@ -101,9 +103,10 @@
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:background="@drawable/image_background"
+                            android:contentDescription="@string/app_name13"
                             android:paddingTop="15dp"
                             android:scaleType="centerCrop"
-                            android:src="@drawable/friedcheiken2"
+                            android:src="@drawable/fried_chicken"
 
                             />
 
@@ -114,7 +117,8 @@
                             android:text="@string/app_name13"
                             android:textColor="#000000"
                             android:textSize="20sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"
+                            tools:ignore="TextContrastCheck" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -128,6 +132,7 @@
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:background="@drawable/image_background"
+                            android:contentDescription="@string/app_name14"
                             android:paddingTop="15dp"
                             android:scaleType="centerCrop"
                             android:src="@drawable/pasta2" />
@@ -139,7 +144,8 @@
                             android:text="@string/app_name14"
                             android:textColor="#000000"
                             android:textSize="20sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"
+                            tools:ignore="TextContrastCheck" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -153,6 +159,7 @@
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:background="@drawable/image_background"
+                            android:contentDescription="@string/app_name16"
                             android:paddingTop="15dp"
                             android:scaleType="centerCrop"
                             android:src="@drawable/pancake2" />
@@ -164,7 +171,8 @@
                             android:text="@string/app_name16"
                             android:textColor="#000000"
                             android:textSize="20sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"
+                            tools:ignore="TextContrastCheck" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -178,6 +186,7 @@
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:background="@drawable/image_background"
+                            android:contentDescription="@string/app_name15"
                             android:paddingTop="15dp"
                             android:scaleType="centerCrop"
                             android:src="@drawable/salad" />
@@ -189,7 +198,8 @@
                             android:text="@string/app_name15"
                             android:textColor="#000000"
                             android:textSize="20sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"
+                            tools:ignore="TextContrastCheck" />
                     </LinearLayout>
 
 
@@ -204,9 +214,10 @@
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:background="@drawable/image_background"
+                            android:contentDescription="@string/app_name17"
                             android:paddingTop="15dp"
                             android:scaleType="centerCrop"
-                            android:src="@drawable/burgar2" />
+                            android:src="@drawable/fries" />
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -215,7 +226,8 @@
                             android:text="@string/app_name17"
                             android:textColor="#000000"
                             android:textSize="20sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"
+                            tools:ignore="TextContrastCheck" />
                     </LinearLayout>
 
 
@@ -229,7 +241,8 @@
                 android:text="@string/app_name9"
                 android:textColor="#000000"
                 android:textSize="24sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                tools:ignore="TextContrastCheck" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -238,7 +251,9 @@
                 android:text="@string/app_name10"
                 android:textColor="#000000"
                 android:textSize="24sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+
+                />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -251,8 +266,9 @@
                     android:layout_height="100dp"
                     android:layout_marginEnd="8dp"
                     android:background="@drawable/image_background"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="3dp"
+                    android:contentDescription="@string/app_name9"
+                    android:paddingStart="10dp"
+                    android:paddingEnd="3dp"
                     android:scaleType="centerCrop"
                     android:src="@drawable/fries" />
 
@@ -267,7 +283,9 @@
                 android:text="@string/app_name7"
                 android:textColor="#000000"
                 android:textSize="24sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                tools:ignore="TextContrastCheck"
+                />
 
             <TextView
                 android:layout_width="match_parent"
@@ -276,7 +294,8 @@
                 android:text="@string/app_name8"
                 android:textColor="#000000"
                 android:textSize="24sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                tools:ignore="TextContrastCheck" />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -289,8 +308,9 @@
                     android:layout_height="100dp"
                     android:layout_marginEnd="8dp"
                     android:background="@drawable/image_background"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="3dp"
+                    android:contentDescription="@string/app_name7"
+                    android:paddingStart="10dp"
+                    android:paddingEnd="3dp"
                     android:scaleType="centerCrop"
                     android:src="@drawable/pizza_image" />
             </LinearLayout>
@@ -325,10 +345,11 @@
                     android:layout_height="100dp"
                     android:layout_marginEnd="8dp"
                     android:background="@drawable/image_background"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="3dp"
+                    android:contentDescription="@string/app_name5"
+                    android:paddingStart="10dp"
+                    android:paddingEnd="3dp"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/friecheiken" />
+                    android:src="@drawable/burger" />
             </LinearLayout>
 
             <TextView
@@ -361,8 +382,9 @@
                     android:layout_height="100dp"
                     android:layout_marginEnd="8dp"
                     android:background="@drawable/image_background"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="3dp"
+                    android:contentDescription="@string/app_name3"
+                    android:paddingStart="10dp"
+                    android:paddingEnd="3dp"
                     android:scaleType="centerCrop"
                     android:src="@drawable/pasta" />
             </LinearLayout>
@@ -389,8 +411,9 @@
                     android:layout_height="100dp"
                     android:layout_marginEnd="8dp"
                     android:background="@drawable/image_background"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="3dp"
+                    android:contentDescription="@string/app_name1"
+                    android:paddingStart="10dp"
+                    android:paddingEnd="3dp"
                     android:scaleType="centerCrop"
                     android:src="@drawable/pancake" />
             </LinearLayout>
